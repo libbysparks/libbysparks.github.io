@@ -1,0 +1,66 @@
+/*CSS DOCUMENT*/
+
+body {
+    background-color: #ffffed;
+    border: .2em dotted #8e1600;
+    padding: 2em;     
+}
+
+img {
+    display:block;
+    width: 40%;
+    margin-left: auto;
+    margin-right:auto;
+    padding: 0em 0em 2em
+}
+
+h1 { 
+    text-align: center;
+    color: #8e1600
+}
+
+h2 {
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+h3 {
+    text-align: center;
+    color: #8e1600
+}
+
+h6 {
+    text-align: center;
+    color: #8e1600
+}
+
+.intro {
+    text-align: center;
+    font-size: 1em;
+    padding: 0em em 1em; 
+    margin: auto;
+}
+
+p {
+    max-width:60em;
+    margin: auto;
+}
+
+
+.ingredients {
+    text-align: center;
+    margin: 1em 2em 3em;
+    
+}
+
+.directions {
+    padding: 0em 5em 1em;
+    max-width:60em;
+    margin: auto;
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+}
